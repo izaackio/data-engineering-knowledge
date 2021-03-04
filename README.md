@@ -24,3 +24,6 @@ Tools and example of Tech Stacks:
 
 Testing
 * https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
+
+Data Pipelines
+* https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-pipelines#rewrite_data_pipelines_to_use_gcp-managed_services - Migrating pipelines to GCP
