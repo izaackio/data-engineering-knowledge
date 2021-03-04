@@ -20,3 +20,7 @@ Data Governance:
 
 Practicing your Data Governance Skills
 
+Tools and example of Tech Stacks:
+
+Testing
+* https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
