@@ -9,6 +9,8 @@ Data Engineering:
 Practicing your Data Engineering Skills
 
 Data/DevOps:
+* https://analysis.backhand.tech/Data-Ops/ci-cd-for-dbt-big-query-on-azure - CI/CD with dbt and BigQuery using Azure Pipelines
+* https://medium.com/stash-media/similarities-and-differences-between-gitlab-ci-and-cloud-build-aa1e1f9eae0e - Using GitLab CI/CD
 
 Practicing your Data/DevOps Skills
 
@@ -21,6 +23,8 @@ Data Governance:
 Practicing your Data Governance Skills
 
 Tools and example of Tech Stacks:
+
+Infrastructure-as-Code:
 
 Testing
 * https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
