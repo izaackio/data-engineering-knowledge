@@ -32,3 +32,4 @@ Testing
 
 Data Pipelines
 * https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-pipelines#rewrite_data_pipelines_to_use_gcp-managed_services - Migrating pipelines to GCP
+* https://blog.ml6.eu/trends-analytic-engineering-with-dbt-or-dataform-252afc8864ec - Analytics Engineering with dbt or Dataform
