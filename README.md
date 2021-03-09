@@ -4,7 +4,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 Data Engineering:
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
-* 
+* https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/ - Why Data Engineers is more important than Data Scientist right now
 
 Practicing your Data Engineering Skills
 
