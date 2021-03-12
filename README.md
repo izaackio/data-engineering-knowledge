@@ -6,6 +6,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Data Engineering:
 * https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/ - The rise of the Data Engineer, a good overview of the emergence of Data Engineering
 * https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7 - Beginner's guide to Data Engineering part 1
+* https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71 - Beginner's guide to Data Engineering Part 2: Data Modelling, Partitioning, Airflow and ETL Best-Practices
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
 * https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/ - Why Data Engineers are more important than Data Scientist right now
 
