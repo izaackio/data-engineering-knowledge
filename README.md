@@ -3,8 +3,10 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 
 Data Engineering:
+* https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/ - The rise of the Data Engineer, a good overview of the emergence of Data Engineering
+* https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7 - Beginner's guide to Data Engineering part 1
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
-* https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/ - Why Data Engineers is more important than Data Scientist right now
+* https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/ - Why Data Engineers are more important than Data Scientist right now
 
 Practicing your Data Engineering Skills
 
@@ -24,6 +26,9 @@ Data Governance:
 Practicing your Data Governance Skills
 
 Tools and example of Tech Stacks:
+
+BigQuery:
+* https://www.slideshare.net/DanSullivan10/how-to-design-a-modern-data-warehouse-in-big-query-2 - BigQuery Design Principles
 
 Infrastructure-as-Code:
 
