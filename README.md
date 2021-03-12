@@ -20,6 +20,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ## Tools and example of Tech Stacks:
 
+### Data Engineering/DataOps Tech Stacks
+
 ### BigQuery:
 * https://www.slideshare.net/DanSullivan10/how-to-design-a-modern-data-warehouse-in-big-query-2 - BigQuery Design Principles
 
