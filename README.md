@@ -18,6 +18,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Data Science:
 
 ### Data Governance:
+* https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c Data Documentation framework 5W1H
 
 ## Tools and example of Tech Stacks:
 
