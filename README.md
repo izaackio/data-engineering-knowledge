@@ -45,6 +45,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ## Books and other Resources
 
 ### Data Engineering Books
+* https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/
 
 ### Data Engineering other Resources
 * https://awesomedataengineering.com/ 
