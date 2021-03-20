@@ -46,6 +46,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Data Engineering Books
 * https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/
+* https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
 
 ### Data Engineering other Resources
 * https://awesomedataengineering.com/ 
