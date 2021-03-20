@@ -42,7 +42,14 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Data Quality
 * https://towardsdatascience.com/the-new-rules-of-data-quality-5e4fdecb9618 - Rules of Data Quality
 
-## Education and skills-practice
+## Books and other Resources
+
+### Data Engineering Books
+
+### Data Engineering other Resources
+* https://awesomedataengineering.com/ 
+
+## Skills-practice
 
 ### Practicing your Data Engineering Skills
 
