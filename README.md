@@ -15,10 +15,14 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://medium.com/stash-media/similarities-and-differences-between-gitlab-ci-and-cloud-build-aa1e1f9eae0e - Using GitLab CI/CD
 * https://medium.com/@aaronmak/continuous-integration-and-deployment-for-data-pipelines-at-90-seconds-53bf10521ea7 - CI/CD for Data Pipelines
 
+### Data Mesh:
+* https://medium.com/intuit-engineering/intuits-data-mesh-strategy-778e3edaa017 - Intuit Data Mesh Strategy
+
 ### Data Science:
 
 ### Data Governance:
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c Data Documentation framework 5W1H
+
 
 ## Tools and example of Tech Stacks:
 
