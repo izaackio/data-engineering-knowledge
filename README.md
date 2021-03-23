@@ -15,6 +15,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://analysis.backhand.tech/Data-Ops/ci-cd-for-dbt-big-query-on-azure - CI/CD with dbt and BigQuery using Azure Pipelines
 * https://medium.com/stash-media/similarities-and-differences-between-gitlab-ci-and-cloud-build-aa1e1f9eae0e - Using GitLab CI/CD
 * https://medium.com/@aaronmak/continuous-integration-and-deployment-for-data-pipelines-at-90-seconds-53bf10521ea7 - CI/CD for Data Pipelines
+* https://cloud.google.com/community/tutorials/cicd-datalake-part-1 - CI/CD Pipeline in GCP with GCS, BQ, Dataflow, Cloud Build and GitHub
 
 ### Data Mesh:
 * https://medium.com/intuit-engineering/intuits-data-mesh-strategy-778e3edaa017 - Intuit Data Mesh Strategy
