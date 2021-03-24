@@ -19,6 +19,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Data Mesh:
 * https://medium.com/intuit-engineering/intuits-data-mesh-strategy-778e3edaa017 - Intuit Data Mesh Strategy
+* https://read.hyperight.com/is-data-mesh-right-for-your-organisation/ - Data Mesh and how it fits into different organisations
 
 ### Data Science:
 
