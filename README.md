@@ -18,8 +18,13 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://cloud.google.com/community/tutorials/cicd-datalake-part-1 - CI/CD Pipeline in GCP with GCS, BQ, Dataflow, Cloud Build and GitHub
 
 ### Data Mesh:
+* https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
+* https://martinfowler.com/articles/data-mesh-principles.html - Zhamak Dehghanis article on Data Mesh principles and logical architecture
 * https://medium.com/intuit-engineering/intuits-data-mesh-strategy-778e3edaa017 - Intuit Data Mesh Strategy
 * https://read.hyperight.com/is-data-mesh-right-for-your-organisation/ - Data Mesh and how it fits into different organisations
+* https://www.exasol.com/resource/insights-data-mesh-solve-self-serve-analytics/ - Data Mesh for Self-Serve Analytics
+* https://www.dataengineeringweekly.com/p/data-mesh-simplified-a-reflection - Data Mesh Simplified and comparisons to Data Lakes
+* 
 
 ### Data Science:
 
