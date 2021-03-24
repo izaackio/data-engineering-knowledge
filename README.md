@@ -36,6 +36,9 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Infrastructure-as-Code:
 
+### Linux/Bash:
+* https://medium.com/@aztekweb/the-flexibility-of-git-bash-for-windows-574e39dcbced - Creating aliases and functions in Bash
+
 ### Testing
 * https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
 
