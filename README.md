@@ -30,6 +30,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Data Governance:
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c Data Documentation framework 5W1H
+* https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/ - Building a Data Culture at Uber
 
 
 ## Tools and example of Tech Stacks:
