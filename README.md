@@ -11,11 +11,13 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/ - Why Data Engineers are more important than Data Scientist right now
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
 
-### Data/DevOps:
+### DataOps/DevOps:
 * https://analysis.backhand.tech/Data-Ops/ci-cd-for-dbt-big-query-on-azure - CI/CD with dbt and BigQuery using Azure Pipelines
 * https://medium.com/stash-media/similarities-and-differences-between-gitlab-ci-and-cloud-build-aa1e1f9eae0e - Using GitLab CI/CD
 * https://medium.com/@aaronmak/continuous-integration-and-deployment-for-data-pipelines-at-90-seconds-53bf10521ea7 - CI/CD for Data Pipelines
 * https://cloud.google.com/community/tutorials/cicd-datalake-part-1 - CI/CD Pipeline in GCP with GCS, BQ, Dataflow, Cloud Build and GitHub
+* https://cloud.google.com/solutions/cicd-pipeline-for-data-processing - CI/CD Pipeline in GCP with GCS, Dataflow, Cloud Composer, Cloud Build and Cloud Source Repositories
+* https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/ - Managing Cloud Costs at Spotify with Cost Insights
 
 ### Data Mesh:
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
