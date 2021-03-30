@@ -19,6 +19,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://cloud.google.com/community/tutorials/cicd-datalake-part-1 - CI/CD Pipeline in GCP with GCS, BQ, Dataflow, Cloud Build and GitHub
 * https://cloud.google.com/solutions/cicd-pipeline-for-data-processing - CI/CD Pipeline in GCP with GCS, Dataflow, Cloud Composer, Cloud Build and Cloud Source Repositories
 * https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/ - Managing Cloud Costs at Spotify with Cost Insights
+* https://github.com/velascoluis/dbt-ci-cd-gke - dbt CI/CD Image with Kubernetes
 
 ### Data Engineering/DataOps Tech Stacks
 * https://technically.dev/posts/what-your-data-team-is-using - Examples of tools used by Data Teams
