@@ -10,6 +10,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
 * https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/ - Why Data Engineers are more important than Data Scientist right now
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
+* https://blog.getdbt.com/how-we-configure-snowflake/ How dbt configures Snowflake and manages user-access
 
 ### DataOps/DevOps:
 * https://analysis.backhand.tech/Data-Ops/ci-cd-for-dbt-big-query-on-azure - CI/CD with dbt and BigQuery using Azure Pipelines
@@ -18,6 +19,10 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://cloud.google.com/community/tutorials/cicd-datalake-part-1 - CI/CD Pipeline in GCP with GCS, BQ, Dataflow, Cloud Build and GitHub
 * https://cloud.google.com/solutions/cicd-pipeline-for-data-processing - CI/CD Pipeline in GCP with GCS, Dataflow, Cloud Composer, Cloud Build and Cloud Source Repositories
 * https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/ - Managing Cloud Costs at Spotify with Cost Insights
+
+### Data Engineering/DataOps Tech Stacks
+* https://technically.dev/posts/what-your-data-team-is-using - Examples of tools used by Data Teams
+* https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack/ - GitLab Data Stack and Best-Practices around their Data Warehouse and Data Infrastructure, dbt and other useful tips
 
 ### Data Mesh:
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
@@ -28,17 +33,16 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.dataengineeringweekly.com/p/data-mesh-simplified-a-reflection - Data Mesh Simplified and comparisons to Data Lakes
 * 
 
-### Data Science:
-
 ### Data Governance:
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c Data Documentation framework 5W1H
 * https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/ - Building a Data Culture at Uber
 
 
-## Tools and example of Tech Stacks:
+## Tools, Languages and specific Data Engineering/Governance Concepts:
 
-### Data Engineering/DataOps Tech Stacks
-* https://technically.dev/posts/what-your-data-team-is-using - Examples of tools used by Data Teams
+### SQL:
+* https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/ - GitLab SQL Styling Guide
+
 
 ### BigQuery:
 * https://www.slideshare.net/DanSullivan10/how-to-design-a-modern-data-warehouse-in-big-query-2 - BigQuery Design Principles
