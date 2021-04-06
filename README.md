@@ -28,6 +28,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Data Mesh:
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
 * https://martinfowler.com/articles/data-mesh-principles.html - Zhamak Dehghanis article on Data Mesh principles and logical architecture
+* https://www.youtube.com/watch?v=L_-fHo0ZkAo&t=271s - Zhamak Dehghani Keynote on Data Mesh
 * https://medium.com/intuit-engineering/intuits-data-mesh-strategy-778e3edaa017 - Intuit Data Mesh Strategy
 * https://read.hyperight.com/is-data-mesh-right-for-your-organisation/ - Data Mesh and how it fits into different organisations
 * https://www.exasol.com/resource/insights-data-mesh-solve-self-serve-analytics/ - Data Mesh for Self-Serve Analytics
