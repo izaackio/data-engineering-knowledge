@@ -13,6 +13,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://blog.getdbt.com/how-we-configure-snowflake/ How dbt configures Snowflake and manages user-access
 
 ### DataOps/DevOps:
+* https://semaphoreci.com/blog/cicd-pipeline - An introduction to CI/CD
 * https://analysis.backhand.tech/Data-Ops/ci-cd-for-dbt-big-query-on-azure - CI/CD with dbt and BigQuery using Azure Pipelines
 * https://medium.com/stash-media/similarities-and-differences-between-gitlab-ci-and-cloud-build-aa1e1f9eae0e - Using GitLab CI/CD
 * https://medium.com/@aaronmak/continuous-integration-and-deployment-for-data-pipelines-at-90-seconds-53bf10521ea7 - CI/CD for Data Pipelines
@@ -24,6 +25,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Data Engineering/DataOps Tech Stacks
 * https://technically.dev/posts/what-your-data-team-is-using - Examples of tools used by Data Teams
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack/ - GitLab Data Stack and Best-Practices around their Data Warehouse and Data Infrastructure, dbt and other useful tips
+* https://old.reddit.com/r/dataengineering/comments/ln4fi7/dataopsish_design_and_workflow_walkthrough/ - Example of a DataOps-stack with dbt, FiveTran, Looker, Great Expectations, Docker, Prefect etc. Small scale operations.
 
 ### Data Mesh:
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
