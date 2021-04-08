@@ -4,6 +4,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ## Articles
 
 ### Data Engineering:
+* https://drive.google.com/file/d/1bhn2ZlAeEA-ASeCrsqtyeAzal-wp2Ps0/view - ValidIO Overview and History of the Data Engineer role
 * https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/ - The rise of the Data Engineer, a good overview of the emergence of Data Engineering
 * https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7 - Beginner's guide to Data Engineering part 1
 * https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71 - Beginner's guide to Data Engineering Part 2: Data Modelling, Partitioning, Airflow and ETL Best-Practices
