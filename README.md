@@ -24,6 +24,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://github.com/velascoluis/dbt-ci-cd-gke - dbt CI/CD Image with Kubernetes
 
 ### Data Engineering/DataOps Tech Stacks
+* https://blog-getdbt-com.cdn.ampproject.org/c/s/blog.getdbt.com/future-of-the-modern-data-stack/amp/ - The Modern Data Stack from dbt with FiveTran/Stitch, BigQuery/RedShift/Snowflake, dbt and Looker/Mode/Chartio 
 * https://technically.dev/posts/what-your-data-team-is-using - Examples of tools used by Data Teams
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack/ - GitLab Data Stack and Best-Practices around their Data Warehouse and Data Infrastructure, dbt and other useful tips
 * https://old.reddit.com/r/dataengineering/comments/ln4fi7/dataopsish_design_and_workflow_walkthrough/ - Example of a DataOps-stack with dbt, FiveTran, Looker, Great Expectations, Docker, Prefect etc. Small scale operations.
