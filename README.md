@@ -49,7 +49,6 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### SQL:
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/ - GitLab SQL Styling Guide
 
-
 ### BigQuery:
 * https://www.slideshare.net/DanSullivan10/how-to-design-a-modern-data-warehouse-in-big-query-2 - BigQuery Design Principles
 
@@ -82,5 +81,3 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ## Skills-practice
 
 ### Practicing your Data Engineering Skills
-
-### Practicing your Data Science Skills
