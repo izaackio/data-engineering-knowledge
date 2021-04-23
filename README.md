@@ -11,7 +11,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83
 * https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/ - Why Data Engineers are more important than Data Scientist right now
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
-* https://blog.getdbt.com/how-we-configure-snowflake/ How dbt configures Snowflake and manages user-access
+* https://blog.getdbt.com/how-we-configure-snowflake/ - How dbt configures Snowflake and manages user-access
+* https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram/ - Data Infrastructure Set-up at Gitlab with Airflow, GCP, Stitch/Fivetran
 * https://medium.com/coriers/etls-vs-elts-why-are-elts-disrupting-the-data-market-5c2e0dc76d29 - ETL vs ELT (Stich, Fivetran, AirByte)
 
 ### DataOps/DevOps:
