@@ -79,6 +79,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Data Engineering other Resources
 * https://awesomedataengineering.com/ 
+* https://markodenic.com/use-google-like-a-pro/ - Tips for more effective Googling
 
 ## Building a Resume for Data Engineering and Data Science
 * https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-335b0f253822
