@@ -14,6 +14,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://blog.getdbt.com/how-we-configure-snowflake/ - How dbt configures Snowflake and manages user-access
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram/ - Data Infrastructure Set-up at Gitlab with Airflow, GCP, Stitch/Fivetran
 * https://medium.com/coriers/etls-vs-elts-why-are-elts-disrupting-the-data-market-5c2e0dc76d29 - ETL vs ELT (Stich, Fivetran, AirByte)
+* https://www.dataversity.net/brief-history-data-warehouse/ - What is a Data Warehouse?
 
 ### DataOps/DevOps:
 * https://semaphoreci.com/blog/cicd-pipeline - An introduction to CI/CD
