@@ -15,6 +15,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram/ - Data Infrastructure Set-up at Gitlab with Airflow, GCP, Stitch/Fivetran
 * https://medium.com/coriers/etls-vs-elts-why-are-elts-disrupting-the-data-market-5c2e0dc76d29 - ETL vs ELT (Stich, Fivetran, AirByte)
 * https://www.dataversity.net/brief-history-data-warehouse/ - What is a Data Warehouse?
+* https://quantumblack.medium.com/so-you-want-to-be-a-data-engineer-5f35dadea95c - What it takes to be a Data Engineer?
 
 ### DataOps/DevOps:
 * https://semaphoreci.com/blog/cicd-pipeline - An introduction to CI/CD
