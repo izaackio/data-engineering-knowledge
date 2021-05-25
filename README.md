@@ -1,4 +1,4 @@
-# data-engineering-knowledge
+# Data Engineering Knowledge Base
 Knowledge base for anything and everything relating to Data Engineering practices, including documentation on Data/DevOps, Data Science, Data Governance etc.
 
 ## Articles
