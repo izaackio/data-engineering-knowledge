@@ -4,6 +4,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ## Articles
 
 ### Data Engineering:
+* https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a - Maxime Beauchemin article on Functional Data Engineering
+* https://www.youtube.com/watch?v=4Spo2QRTz1k - Maxime Beauchemin presentation on Functional Data Engineering
 * https://drive.google.com/file/d/1bhn2ZlAeEA-ASeCrsqtyeAzal-wp2Ps0/view - ValidIO Overview and History of the Data Engineer role
 * https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/ - The rise of the Data Engineer, a good overview of the emergence of Data Engineering
 * https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7 - Beginner's guide to Data Engineering part 1
