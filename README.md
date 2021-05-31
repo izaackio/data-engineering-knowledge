@@ -75,6 +75,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Data Quality
 * https://towardsdatascience.com/the-new-rules-of-data-quality-5e4fdecb9618 - Rules of Data Quality
+* https://medium.com/validio/how-to-ensure-data-quality-in-the-era-of-big-data-320ee8a28afd - How to ensure Data Quality in the era of Big Data
 
 ## Books and other Resources
 
