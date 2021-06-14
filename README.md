@@ -46,6 +46,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.exasol.com/resource/insights-data-mesh-solve-self-serve-analytics/ - Data Mesh for Self-Serve Analytics
 * https://www.dataengineeringweekly.com/p/data-mesh-simplified-a-reflection - Data Mesh Simplified and comparisons to Data Lakes
 * http://www.jamesserra.com/archive/2021/02/data-mesh/ - Data Mesh by James Serra
+* https://datameshlearning.substack.com/p/okay-but-just-wtf-is-a-data-mesh - Data Mesh Explained
+* https://cnr.sh/essays/what-the-heck-data-mesh - What the heck is Data Mesh?
 
 ### Data Governance:
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c Data Documentation framework 5W1H
