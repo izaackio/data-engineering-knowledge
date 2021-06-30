@@ -53,6 +53,10 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c Data Documentation framework 5W1H
 * https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/ - Building a Data Culture at Uber
 
+### Analytics Engineering:
+* https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722 - Analytics Engineering at Spotify
+* https://locallyoptimistic.com/post/analytics-engineer/ - Analytics Engineer description
+
 
 ## Tools, Languages and specific Data Engineering/Governance Concepts:
 
