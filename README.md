@@ -66,6 +66,9 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### BigQuery:
 * https://www.slideshare.net/DanSullivan10/how-to-design-a-modern-data-warehouse-in-big-query-2 - BigQuery Design Principles
 
+### dbt/Dataform:
+* https://datadissectiondr.medium.com/what-on-earth-is-dbt-9fae07edaba9
+
 ### Infrastructure-as-Code:
 
 ### Linux/Bash:
