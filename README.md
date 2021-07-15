@@ -58,6 +58,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722 - Analytics Engineering at Spotify
 * https://locallyoptimistic.com/post/analytics-engineer/ - Analytics Engineer description
 
+### Operationalizing:
+* https://aws.plainenglish.io/what-we-misunderstand-about-disaster-recovery-and-backups-32d89e3cae77 - Disastery Recovery & Backups explained
 
 ## Tools, Languages and specific Data Engineering/Governance Concepts:
 
