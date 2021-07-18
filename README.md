@@ -57,6 +57,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Analytics Engineering:
 * https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722 - Analytics Engineering at Spotify
 * https://locallyoptimistic.com/post/analytics-engineer/ - Analytics Engineer description
+* https://medium.com/validio/dbt-and-the-analytics-engineer-whats-the-hype-about-907eb86c4938 - Analytics Engineer and dbt explained
 
 ### Operationalizing:
 * https://aws.plainenglish.io/what-we-misunderstand-about-disaster-recovery-and-backups-32d89e3cae77 - Disastery Recovery & Backups explained
