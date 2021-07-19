@@ -59,8 +59,13 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://locallyoptimistic.com/post/analytics-engineer/ - Analytics Engineer description
 * https://medium.com/validio/dbt-and-the-analytics-engineer-whats-the-hype-about-907eb86c4938 - Analytics Engineer and dbt explained
 
+### Data Testing & Monitoring:
+* https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
+* https://servian.dev/why-data-engineering-needs-automated-testing-a37a0844d7db - Automated Testing for Data Engineering
+
 ### Operationalizing:
 * https://aws.plainenglish.io/what-we-misunderstand-about-disaster-recovery-and-backups-32d89e3cae77 - Disastery Recovery & Backups explained
+
 
 ## Tools, Languages and specific Data Engineering/Governance Concepts:
 
@@ -78,9 +83,6 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Linux/Bash:
 * https://medium.com/@aztekweb/the-flexibility-of-git-bash-for-windows-574e39dcbced - Creating aliases and functions in Bash
 
-### Testing
-* https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
-
 ### Data Pipelines
 * https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-pipelines#rewrite_data_pipelines_to_use_gcp-managed_services - Migrating pipelines to GCP
 * https://blog.ml6.eu/trends-analytic-engineering-with-dbt-or-dataform-252afc8864ec - Analytics Engineering with dbt or Dataform
@@ -91,6 +93,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://towardsdatascience.com/the-new-rules-of-data-quality-5e4fdecb9618 - Rules of Data Quality
 * https://medium.com/validio/how-to-ensure-data-quality-in-the-era-of-big-data-320ee8a28afd - How to ensure Data Quality in the era of Big Data
 * https://www.metaplane.dev/state-of-data-quality-monitoring-2021 - The State of Data Quality Monitoring 2021
+
 
 ## Books and other Resources
 
