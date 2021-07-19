@@ -30,6 +30,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://engineering.atspotify.com/2020/09/29/managing-clouds-from-the-ground-up-cost-engineering-at-spotify/ - Managing Cloud Costs at Spotify with Cost Insights
 * https://github.com/velascoluis/dbt-ci-cd-gke - dbt CI/CD Image with Kubernetes
 * https://medium.com/@ivan_toriya/step-by-step-guide-to-run-dbt-in-production-with-google-cloud-platform-fb1f035f3c7b - Running dbt in production with GCP Components
+* https://medium.com/data-ops/dataops-is-not-just-devops-for-data-6e03083157b7 - DataOps vs DevOps explained
 
 ### Data Engineering/DataOps Tech Stacks
 * https://blog-getdbt-com.cdn.ampproject.org/c/s/blog.getdbt.com/future-of-the-modern-data-stack/amp/ - The Modern Data Stack from dbt with FiveTran/Stitch, BigQuery/RedShift/Snowflake, dbt and Looker/Mode/Chartio 
