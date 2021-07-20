@@ -1,5 +1,5 @@
 # Data Engineering Knowledge Base
-Knowledge base for anything and everything relating to Data Engineering practices, including documentation on Data/DevOps, Data Science, Data Governance etc.
+Knowledge base for anything and everything relating to Data Engineering practices, including documentation on Data, DevOps, Data Governance, Data Quality etc.
 
 ## Articles
 
@@ -41,6 +41,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://lakefs.io/the-state-of-data-engineering-in-2021/ - The state of Data Engineering in 2021, overview of tools and services in the Ecosystem
 * https://databand.ai/blog/modern-data-stack/ - Modern Data Stack at Databand.ai
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram/ - Data Infrastructure Set-up at Gitlab with Airflow, GCP, Stitch/Fivetran
+* https://a16z.com/2020/10/27/blueprints-for-data-infrastructure-lakehouse-storage-data-is-not-the-new-oil-more/ - Data Infrastructure Blueprints and examples
 
 ### Data Mesh:
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
@@ -76,7 +77,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://towardsdatascience.com/the-new-rules-of-data-quality-5e4fdecb9618 - Rules of Data Quality
 * https://medium.com/validio/how-to-ensure-data-quality-in-the-era-of-big-data-320ee8a28afd - How to ensure Data Quality in the era of Big Data
 * https://www.metaplane.dev/state-of-data-quality-monitoring-2021 - The State of Data Quality Monitoring 2021
-* https://eng.uber.com/monitoring-data-quality-at-scale/
+* https://eng.uber.com/monitoring-data-quality-at-scale/ - Data Quality at Uber
+* https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7 - Data Quality at Airbnb
 
 
 ## Tools, Languages and specific Data Engineering/Governance Concepts:
