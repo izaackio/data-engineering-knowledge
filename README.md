@@ -39,6 +39,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack/ - GitLab Data Stack and Best-Practices around their Data Warehouse and Data Infrastructure, dbt and other useful tips
 * https://old.reddit.com/r/dataengineering/comments/ln4fi7/dataopsish_design_and_workflow_walkthrough/ - Example of a DataOps-stack with dbt, FiveTran, Looker, Great Expectations, Docker, Prefect etc. Small scale operations.
 * https://lakefs.io/the-state-of-data-engineering-in-2021/ - The state of Data Engineering in 2021, overview of tools and services in the Ecosystem
+* https://databand.ai/blog/modern-data-stack/ - Modern Data Stack at Databand.ai
 
 ### Data Mesh:
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
