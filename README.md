@@ -113,3 +113,6 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ## Building a Resume for Data Engineering and Data Science
 * https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-335b0f253822
+
+## Information compilations
+* https://github.com/eugeneyan/applied-ml - Great compilation of information on companies who have applied ML
