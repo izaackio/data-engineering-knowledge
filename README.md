@@ -43,6 +43,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://databand.ai/blog/modern-data-stack/ - Modern Data Stack at Databand.ai
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram/ - Data Infrastructure Set-up at Gitlab with Airflow, GCP, Stitch/Fivetran
 * https://a16z.com/2020/10/27/blueprints-for-data-infrastructure-lakehouse-storage-data-is-not-the-new-oil-more/ - Data Infrastructure Blueprints and examples
+* https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83 - Building Analytics at 500px: AWS RedShift, Luigi, Periscope etc.
 
 ### Data Mesh:
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
@@ -58,7 +59,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Data Governance:
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c - Data Documentation framework 5W1H
-* https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/ - Building a Data Culture at Uber
+* https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/ - Building a Data Culture at Uber - Data Quality, Discoverability, Governance etc.
 
 ### Analytics Engineering:
 * https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722 - Analytics Engineering at Spotify
@@ -66,6 +67,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Data Testing & Monitoring:
 * https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
+* https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a - Pipeline testing with Great Expectations
 * https://servian.dev/why-data-engineering-needs-automated-testing-a37a0844d7db - Automated Testing for Data Engineering
 
 ### Data Pipelines
@@ -80,6 +82,12 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.metaplane.dev/state-of-data-quality-monitoring-2021 - The State of Data Quality Monitoring 2021
 * https://eng.uber.com/monitoring-data-quality-at-scale/ - Data Quality at Uber
 * https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7 - Data Quality at Airbnb
+* https://medium.com/wriketechclub/data-quality-roadmap-part-i-61332d5be7a - Data Quality Roadmap at Wrike: Part 1
+* https://medium.com/wriketechclub/data-quality-roadmap-part-ii-case-studies-614e85906178 - Data Quality Roadmap at Write: Part 2
+* 
+
+### Analytics & Business Intelligence
+* https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a - The future of Business Intelligence is Open-Source by Maxime Beauchemin
 
 
 ## Tools, Languages and specific Data Engineering/Governance Concepts:
@@ -95,6 +103,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://ashleymellz.medium.com/open-source-spotlight-how-dbt-can-transform-your-data-analytics-pipeline-c54cf9516cdf - Using dbt to transform your data analytics pipelines
 * https://medium.com/validio/dbt-and-the-analytics-engineer-whats-the-hype-about-907eb86c4938 - Analytics Engineer and dbt explained
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
+* https://medium.com/tiqets-tech/taming-the-dependency-hell-with-dbt-2491771a11be - Managing data dependencies with dbt
 
 ### Infrastructure-as-Code:
 
