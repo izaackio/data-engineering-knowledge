@@ -98,6 +98,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### BigQuery
 * https://www.slideshare.net/DanSullivan10/how-to-design-a-modern-data-warehouse-in-big-query-2 - BigQuery Design Principles
+* https://servian.dev/automating-bigquery-exports-and-email-via-cloud-build-d8544a7995b9 - BigQuery email exports with Cloud Build, Scheduler
 
 ### dbt/Dataform
 * https://datadissectiondr.medium.com/what-on-earth-is-dbt-9fae07edaba9 - What is dbt?
