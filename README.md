@@ -3,7 +3,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ## Articles
 
-### Data Engineering:
+### Data Engineering
 * https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a - Maxime Beauchemin article on Functional Data Engineering
 * https://www.youtube.com/watch?v=4Spo2QRTz1k - Maxime Beauchemin presentation on Functional Data Engineering
 * https://drive.google.com/file/d/1bhn2ZlAeEA-ASeCrsqtyeAzal-wp2Ps0/view - ValidIO Overview and History of the Data Engineer role
@@ -19,7 +19,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://quantumblack.medium.com/so-you-want-to-be-a-data-engineer-5f35dadea95c - What it takes to be a Data Engineer?
 * https://medium.com/validio/ml-data-trends-wrapping-up-2020-and-looking-into-2021-beyond-b3ff1eadc211 - Data Trends for 2021, Data Quality, Infrastructure and Data Stacks
 
-### DataOps/DevOps:
+### DataOps/DevOps
 * https://semaphoreci.com/blog/cicd-pipeline - An introduction to CI/CD
 * https://analysis.backhand.tech/Data-Ops/ci-cd-for-dbt-big-query-on-azure - CI/CD with dbt and BigQuery using Azure Pipelines
 * https://medium.com/stash-media/similarities-and-differences-between-gitlab-ci-and-cloud-build-aa1e1f9eae0e - Using GitLab CI/CD
@@ -45,7 +45,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://a16z.com/2020/10/27/blueprints-for-data-infrastructure-lakehouse-storage-data-is-not-the-new-oil-more/ - Data Infrastructure Blueprints and examples
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83 - Building Analytics at 500px: AWS RedShift, Luigi, Periscope etc.
 
-### Data Mesh:
+### Data Mesh
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
 * https://martinfowler.com/articles/data-mesh-principles.html - Zhamak Dehghanis article on Data Mesh principles and logical architecture
 * https://www.youtube.com/watch?v=L_-fHo0ZkAo&t=271s - Zhamak Dehghani Keynote on Data Mesh
@@ -57,15 +57,15 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://datameshlearning.substack.com/p/okay-but-just-wtf-is-a-data-mesh - Data Mesh Explained
 * https://cnr.sh/essays/what-the-heck-data-mesh - What the heck is Data Mesh?
 
-### Data Governance:
+### Data Governance
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c - Data Documentation framework 5W1H
 * https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/ - Building a Data Culture at Uber - Data Quality, Discoverability, Governance etc.
 
-### Analytics Engineering:
+### Analytics Engineering
 * https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722 - Analytics Engineering at Spotify
 * https://locallyoptimistic.com/post/analytics-engineer/ - Analytics Engineer description
 
-### Data Testing & Monitoring:
+### Data Testing & Monitoring
 * https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
 * https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a - Pipeline testing with Great Expectations
 * https://servian.dev/why-data-engineering-needs-automated-testing-a37a0844d7db - Automated Testing for Data Engineering
@@ -92,22 +92,23 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ## Tools, Languages and specific Data Engineering/Governance Concepts:
 
-### SQL:
+### SQL
 * https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/ - GitLab SQL Styling Guide
 
-### BigQuery:
+### BigQuery
 * https://www.slideshare.net/DanSullivan10/how-to-design-a-modern-data-warehouse-in-big-query-2 - BigQuery Design Principles
 
-### dbt/Dataform:
+### dbt/Dataform
 * https://datadissectiondr.medium.com/what-on-earth-is-dbt-9fae07edaba9 - What is dbt?
 * https://ashleymellz.medium.com/open-source-spotlight-how-dbt-can-transform-your-data-analytics-pipeline-c54cf9516cdf - Using dbt to transform your data analytics pipelines
 * https://medium.com/validio/dbt-and-the-analytics-engineer-whats-the-hype-about-907eb86c4938 - Analytics Engineer and dbt explained
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
 * https://medium.com/tiqets-tech/taming-the-dependency-hell-with-dbt-2491771a11be - Managing data dependencies with dbt
 
-### Infrastructure-as-Code:
+### Infrastructure-as-Code
+* https://towardsdatascience.com/bootstrap-a-modern-data-stack-in-5-minutes-with-terraform-32342ee10e79 - Setting up a Modern Data Stack with Terraform
 
-### Linux/Bash:
+### Linux/Bash
 * https://medium.com/@aztekweb/the-flexibility-of-git-bash-for-windows-574e39dcbced - Creating aliases and functions in Bash
 
 
