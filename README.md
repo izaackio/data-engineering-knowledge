@@ -65,6 +65,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Analytics Engineering
 * https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722 - Analytics Engineering at Spotify
 * https://locallyoptimistic.com/post/analytics-engineer/ - Analytics Engineer description
+* https://www.getdbt.com/what-is-analytics-engineering/ - dbt description of an Analytics Engineer with multiple other useful resources
 
 ### Data Testing & Monitoring
 * https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
@@ -90,6 +91,10 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Analytics & Business Intelligence
 * https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a - The future of Business Intelligence is Open-Source by Maxime Beauchemin
 
+### Data Teams & Organizations
+* https://www.getdbt.com/data-teams/centralized-vs-decentralized/ - Centralized vs Decentralized Data Teams by dbt
+* https://www.getdbt.com/data-teams/data-org-structure-examples/ - Data organisational structure examples by dbt
+
 
 ## Tools, Languages and specific Data Engineering/Governance Concepts:
 
@@ -101,7 +106,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://servian.dev/automating-bigquery-exports-and-email-via-cloud-build-d8544a7995b9 - BigQuery email exports with Cloud Build, Scheduler
 
 ### dbt/Dataform
-* https://datadissectiondr.medium.com/what-on-earth-is-dbt-9fae07edaba9 - What is dbt?
+* https://www.getdbt.com/product/what-is-dbt/ - What is dbt?
+* https://datadissectiondr.medium.com/what-on-earth-is-dbt-9fae07edaba9 - What is dbt article
 * https://ashleymellz.medium.com/open-source-spotlight-how-dbt-can-transform-your-data-analytics-pipeline-c54cf9516cdf - Using dbt to transform your data analytics pipelines
 * https://medium.com/validio/dbt-and-the-analytics-engineer-whats-the-hype-about-907eb86c4938 - Analytics Engineer and dbt explained
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
