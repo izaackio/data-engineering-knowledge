@@ -112,6 +112,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://medium.com/validio/dbt-and-the-analytics-engineer-whats-the-hype-about-907eb86c4938 - Analytics Engineer and dbt explained
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
 * https://medium.com/tiqets-tech/taming-the-dependency-hell-with-dbt-2491771a11be - Managing data dependencies with dbt
+* https://courses.getdbt.com/courses/fundamentals - dbt Fundamentals course
 
 ### Infrastructure-as-Code
 * https://towardsdatascience.com/bootstrap-a-modern-data-stack-in-5-minutes-with-terraform-32342ee10e79 - Setting up a Modern Data Stack with Terraform
