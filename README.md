@@ -83,6 +83,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://medium.com/validio/how-to-ensure-data-quality-in-the-era-of-big-data-320ee8a28afd - How to ensure Data Quality in the era of Big Data
 * https://www.metaplane.dev/state-of-data-quality-monitoring-2021 - The State of Data Quality Monitoring 2021
 * https://eng.uber.com/monitoring-data-quality-at-scale/ - Data Quality at Uber
+* https://eng.uber.com/operational-excellence-data-quality/ - Operational Excellence in Data Quality at Uber
 * https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7 - Data Quality at Airbnb
 * https://medium.com/wriketechclub/data-quality-roadmap-part-i-61332d5be7a - Data Quality Roadmap at Wrike: Part 1
 * https://medium.com/wriketechclub/data-quality-roadmap-part-ii-case-studies-614e85906178 - Data Quality Roadmap at Write: Part 2
