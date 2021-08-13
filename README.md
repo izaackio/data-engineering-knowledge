@@ -57,6 +57,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * http://www.jamesserra.com/archive/2021/02/data-mesh/ - Data Mesh by James Serra
 * https://datameshlearning.substack.com/p/okay-but-just-wtf-is-a-data-mesh - Data Mesh Explained
 * https://cnr.sh/essays/what-the-heck-data-mesh - What the heck is Data Mesh?
+* https://towardsdatascience.com/decoding-the-data-mesh-594b44b4b26f - Decoding the Data Mesh
 
 ### Data Governance
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c - Data Documentation framework 5W1H
