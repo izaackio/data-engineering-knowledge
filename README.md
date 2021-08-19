@@ -130,7 +130,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
 
 ### Data Engineering other Resources
-* https://awesomedataengineering.com/ 
+* https://awesomedataengineering.com/ - Great source of information for how to get started with Data Engineering
+* https://www.startdataengineering.com/ - Great source of information for how to get started with Data Engineering
 * https://markodenic.com/use-google-like-a-pro/ - Tips for more effective Googling
 
 ## Building a Resume for Data Engineering and Data Science
