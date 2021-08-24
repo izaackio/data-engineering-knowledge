@@ -45,6 +45,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://a16z.com/2020/10/27/blueprints-for-data-infrastructure-lakehouse-storage-data-is-not-the-new-oil-more/ - Data Infrastructure Blueprints and examples
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83 - Building Analytics at 500px: AWS RedShift, Luigi, Periscope etc.
 * https://www.datacoral.com/blog/modern-data-stack/ - Meta-Data Driven Modern Data Stack at DataCoral
+* https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/ - Modern Data Stack for Startups
 
 ### Data Mesh
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
