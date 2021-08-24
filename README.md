@@ -93,6 +93,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 
 ### Analytics & Business Intelligence
 * https://maximebeauchemin.medium.com/the-future-of-business-intelligence-is-open-source-9b654595773a - The future of Business Intelligence is Open-Source by Maxime Beauchemin
+* https://preset.io/ - Preset BI-platform
 
 ### Data Teams & Organizations
 * https://www.getdbt.com/data-teams/centralized-vs-decentralized/ - Centralized vs Decentralized Data Teams by dbt
