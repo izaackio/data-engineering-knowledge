@@ -46,6 +46,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83 - Building Analytics at 500px: AWS RedShift, Luigi, Periscope etc.
 * https://www.datacoral.com/blog/modern-data-stack/ - Meta-Data Driven Modern Data Stack at DataCoral
 * https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/ - Modern Data Stack for Startups
+* https://benn.substack.com/p/the-modern-data-experience#footnote-6 - The Modern Data Experience, how to create a good experience for consumers of data
 
 ### Data Mesh
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
