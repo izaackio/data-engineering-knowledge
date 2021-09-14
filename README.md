@@ -65,6 +65,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 ### Data Governance
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c - Data Documentation framework 5W1H
 * https://eng.uber.com/ubers-journey-toward-better-data-culture-from-first-principles/ - Building a Data Culture at Uber - Data Quality, Discoverability, Governance etc.
+* https://slack.engineering/data-lineage-at-slack/ - Data Lineage at Slack
 
 ### Analytics Engineering
 * https://medium.com/spotify-insights/analytics-engineering-at-spotify-f165180a6722 - Analytics Engineering at Spotify
@@ -75,6 +76,8 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://greatexpectations.io/ - Testing, Documentation and Profiling of Data Pipelines
 * https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a - Pipeline testing with Great Expectations
 * https://servian.dev/why-data-engineering-needs-automated-testing-a37a0844d7db - Automated Testing for Data Engineering
+* https://greatexpectations.io/blog/maximizing-productivity-of-analytics-teams-pt2/ - Managing Pipeline Debt with Testing
+* https://greatexpectations.io/blog/maximizing-productivity-of-analytics-teams-pt3/ - Pipeline testing with Great Expectations 
 
 ### Data Pipelines
 * https://cloud.google.com/solutions/migration/dw2bq/dw-bq-data-pipelines#rewrite_data_pipelines_to_use_gcp-managed_services - Migrating pipelines to GCP
