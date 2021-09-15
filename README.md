@@ -18,6 +18,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.dataversity.net/brief-history-data-warehouse/ - What is a Data Warehouse?
 * https://quantumblack.medium.com/so-you-want-to-be-a-data-engineer-5f35dadea95c - What it takes to be a Data Engineer?
 * https://medium.com/validio/ml-data-trends-wrapping-up-2020-and-looking-into-2021-beyond-b3ff1eadc211 - Data Trends for 2021, Data Quality, Infrastructure and Data Stacks
+* https://medium.com/technexthere/top-15-books-every-data-engineer-should-know-d635e91fe3bc - Top 15 books for Data Engineers
 
 ### DataOps/DevOps
 * https://semaphoreci.com/blog/cicd-pipeline - An introduction to CI/CD
