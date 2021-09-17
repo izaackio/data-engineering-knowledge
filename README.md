@@ -124,6 +124,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://github.com/rittmananalytics/ra_data_warehouse - Data Warehouse Framework with dbt, BigQuery
 * https://medium.com/tiqets-tech/taming-the-dependency-hell-with-dbt-2491771a11be - Managing data dependencies with dbt
 * https://courses.getdbt.com/courses/fundamentals - dbt Fundamentals course
+* https://medium.com/grensesnittet/using-dataform-to-improve-data-quality-in-bigquery-62ae1806e451 - Data Quality with Dataform
 
 ### Infrastructure-as-Code
 * https://towardsdatascience.com/bootstrap-a-modern-data-stack-in-5-minutes-with-terraform-32342ee10e79 - Setting up a Modern Data Stack with Terraform
