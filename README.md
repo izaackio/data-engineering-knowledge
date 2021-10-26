@@ -48,6 +48,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.datacoral.com/blog/modern-data-stack/ - Meta-Data Driven Modern Data Stack at DataCoral
 * https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/ - Modern Data Stack for Startups
 * https://benn.substack.com/p/the-modern-data-experience#footnote-6 - The Modern Data Experience, how to create a good experience for consumers of data
+* https://medium.com/data-monzo/an-introduction-to-monzos-data-stack-827ae531bc99 - Monzo Data Stack with BigQuery, DBT, Looker and Microservices
 
 ### Data Mesh
 * https://martinfowler.com/articles/data-monolith-to-mesh.html - Zhamak Dehghanis foundational article on Data Mesh
