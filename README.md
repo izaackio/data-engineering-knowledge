@@ -19,6 +19,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://quantumblack.medium.com/so-you-want-to-be-a-data-engineer-5f35dadea95c - What it takes to be a Data Engineer?
 * https://medium.com/validio/ml-data-trends-wrapping-up-2020-and-looking-into-2021-beyond-b3ff1eadc211 - Data Trends for 2021, Data Quality, Infrastructure and Data Stacks
 * https://medium.com/technexthere/top-15-books-every-data-engineer-should-know-d635e91fe3bc - Top 15 books for Data Engineers
+* https://medium.com/validio/the-rise-and-future-of-data-engineering-whats-it-all-about-a235dbb4412e - The rise of the Data Engineer and what they do?
 
 ### DataOps/DevOps
 * https://semaphoreci.com/blog/cicd-pipeline - An introduction to CI/CD
