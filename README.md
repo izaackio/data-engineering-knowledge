@@ -149,8 +149,9 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://www.startdataengineering.com/ - Great source of information for how to get started with Data Engineering
 * https://markodenic.com/use-google-like-a-pro/ - Tips for more effective Googling
 
-## Building a Resume for Data Engineering and Data Science
+## Resume Building
 * https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-335b0f253822
 
 ## Information compilations
 * https://github.com/eugeneyan/applied-ml - Great compilation of information on companies who have applied ML
+* https://cal-data-eng.github.io/ - CalTech Data Engineering COurse
