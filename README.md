@@ -66,6 +66,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059 - Netflix Data Mesh
 * https://towardsdatascience.com/data-mesh-topologies-85f4cad14bf2 - Data Mesh Architectures/Topologies (Good!)
 * https://medium.com/@chris.jackson_46175/well-heres-another-nice-mesh-you-ve-gotten-me-into-2b1d607aa43a - Some drawbacks of Data Mesh
+* https://itnext.io/introduction-to-data-mesh-59e6f3a4c15e - Data Mesh Implementation tips & Technologies
 
 ### Data Governance
 * https://towardsdatascience.com/data-documentation-woes-heres-a-framework-6aba8f20626c - Data Documentation framework 5W1H
