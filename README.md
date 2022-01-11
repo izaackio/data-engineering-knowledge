@@ -131,6 +131,7 @@ Knowledge base for anything and everything relating to Data Engineering practice
 * https://courses.getdbt.com/courses/fundamentals - dbt Fundamentals course
 * https://medium.com/grensesnittet/using-dataform-to-improve-data-quality-in-bigquery-62ae1806e451 - Data Quality with Dataform
 * https://github.com/Hiflylabs/awesome-dbt - dbt articles and how-tos
+* https://robertsahlin.com/serverless-dbt-on-google-cloud-platform/ - Serverless dbt on GCP
 
 ### Infrastructure-as-Code
 * https://towardsdatascience.com/bootstrap-a-modern-data-stack-in-5-minutes-with-terraform-32342ee10e79 - Setting up a Modern Data Stack with Terraform
